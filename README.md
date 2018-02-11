@@ -3,6 +3,7 @@ this is a qlearn pratice for the game of nine point game
 the game board goes like this:
 ------
 c1 c2 c3
+
 0  0  0  (row 0)
 
 0  0  0  (row 1)
