@@ -15,8 +15,10 @@ any side who can get his point a line no matter in a row, in a column or in a ob
 0 0 0 
 ----- 
 -----
-1 0 0 
-1 0 0  
+1 0 0 	
+
+1 0 0 	
+ 
 1 0 0
  	
 -----
