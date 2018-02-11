@@ -35,3 +35,6 @@ any side who can get his point a line no matter in a row, in a column or in a ob
 0 0 1
 
 -----
+
+so this is an example of using Reforcemant Learn to give a try to do the game. here we use  qlearn. the offline part is to do the training of 
+qmatrix.
