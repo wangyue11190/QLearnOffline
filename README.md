@@ -1,4 +1,4 @@
-# QLearnOffline
+# QLearnOffline-
 this is a qlearn pratice for the game of nine point game
 the game board goes like this:
 ------
