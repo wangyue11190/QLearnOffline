@@ -2,12 +2,14 @@
 this is a qlearn pratice for the game of nine point game
 the game board goes like this:
 ------
-0 0 0
+c1 c2 c3
+0  0  0  (row 0)
 
-0 0 0 
+0  0  0  (row 1)
 
-0 0 0 
+0  0  0  (row 2)
 
+so the points are as follows: (0,0),(0,1),(0,2) (1,0),(1,1),(1,2) (2,0),(2,1),(2,2)
 ------
 two players play, one is 1 the other 2.
 any side who can get his point a line no matter in a row, in a column or in a oblique line wins.like belows.
