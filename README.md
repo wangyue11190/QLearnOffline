@@ -38,4 +38,6 @@ any side who can get his point a line no matter in a row, in a column or in a ob
 
 so this is an example of using Reforcemant Learn to give a try to do the game. here we use  qlearn. the offline part is to do the training of 
 qmatrix.
-aa
+
+there are two steps: 1. cd pymain && python qlearn_status.py
+					 2. cd pymain && python qlearn_core.py
